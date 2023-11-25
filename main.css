@@ -97,3 +97,20 @@ section {
 #economia .container .articles article a {
     background-color:chocolate;
 }
+
+#Entretenimento {
+    background-color:rgba(210, 105, 30, 0.596);
+}
+
+#Tecnologia {
+    background-color:rgba(255, 0, 0, 0.493);
+}
+
+#Entretenimento .container .articles article a {
+    background-color:#2f4538;
+}
+#Tecnologia .container .articles article a {
+    background-color:rgba(255, 255, 0, 0.911);
+    color: #000;
+}
+
